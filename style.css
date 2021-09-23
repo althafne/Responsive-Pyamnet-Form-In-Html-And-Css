@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto' , sans-serif;
+}
+.header{
+    background: rgb(0, 247, 255);
+}
+.logo{
+    text-align: center;
+    font-weight: bold;
+    font-size: 60px;
+}
+.a-1{
+    color: black;
+    margin-left: 20px;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 30px;
+}
+.form{
+    text-align: center;
+    font-weight: bold;
+    font-size: 15px;
+}
+.inp{
+    border: 1px solid #ccc;
+    margin-right: 15px;
+    padding: 8px 12px;
+    border-radius: 25px;
+    outline: none;
+}
+.btn-1{
+    background: blueviolet;
+    font-weight: bold;
+    font-size: 15px;
+    color: black;
+    border-radius: .5rem;
+}
+.h2{
+    color: black;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+    text-decoration: underline red;
+}
+.social{
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+    color: rgb(247, 1, 173);
+}
+.h3{
+    text-decoration: underline red;
+    text-align: center;
+}
+.acceptedpayments img{
+    margin-left: 50px;
+}
+.copyright{
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+}
+.h4{
+    text-align: center;
+    font-weight: bold;
+}
+.p-1{
+    text-align: center;
+    font-weight: bold;
+    font-size: 15px;
+    font-style: italic;
+}
+.a-5{
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    font-size: 15px;
+    background: lightblue;
+    display: inline-block;
+}
+.a-5:hover{
+    color: lightblue;
+    background: black;
+}
+.a-6{
+    text-decoration: none;
+    color: lightblue;
+    font-weight: bold;
+    font-size: 25px;
+}
